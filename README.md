@@ -26,3 +26,6 @@ Users can generate random tickets and check if they win.
 
 npm install
 npm run dev
+
+<img width="1897" height="803" alt="Screenshot 2026-05-14 at 19 34 58" src="https://github.com/user-attachments/assets/2d2d66a7-83ad-4c2c-8b47-26ee53a490ff" />
+
